@@ -1,5 +1,5 @@
 {
-    "name": "atorscho/laravel-breadcrumbs",
+    "name": "atorscho/crumbs",
     "description": "Yet another simple and useful breadcrumbs package for Laravel 7.",
     "version": "3.0.0",
     "type": "library",
