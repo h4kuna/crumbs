@@ -37,7 +37,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Atorscho\\Breadcrumbs\\BreadcrumbsServiceProvider"
+                "Atorscho\\Crumbs\\CrumbsServiceProvider"
             ]
         }
     }
